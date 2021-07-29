@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foundIndex", "Homewort_11\foundIndex.csproj", "{78507D3A-4E6E-4677-9269-952E812AEAAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78507D3A-4E6E-4677-9269-952E812AEAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78507D3A-4E6E-4677-9269-952E812AEAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78507D3A-4E6E-4677-9269-952E812AEAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78507D3A-4E6E-4677-9269-952E812AEAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C64D3DB1-7F1C-4B04-AD25-513F8CFD52BA}
+	EndGlobalSection
+EndGlobal
